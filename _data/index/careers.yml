@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: <a href="https://www.interdigital.com/" target="_blank">Interdigital</a>
+    i18n: company_a
+  desc:
+    detail: Video coding & Deep Learning model compression.
+    i18n: company_a_desc
+  date:
+    detail: Sept. 2021 - Present 
+    i18n: company_a_date
+  job:
+    detail: Research Engineer intern
+    i18n: company_a_job
+  icon: fas fa-briefcase 
+  present: true
+
+- name:
     detail: <a href="https://www.lrde.epita.fr/wiki/Home" target="_blank">LRDE</a>
     i18n: company_a
   desc:
