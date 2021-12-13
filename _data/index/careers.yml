@@ -44,18 +44,3 @@
     i18n: company_a_job
   icon: fas fa-leaf
   present: false 
-
-- name:
-    detail: Neko Business
-    i18n: company_b
-  desc:
-    detail:
-    i18n: company_b_desc
-  date:
-    detail: Jul. 2018 - Aug. 2018
-    i18n: company_b_date
-  job:
-    detail: Summer Intern
-    i18n: company_b_job
-  icon: fas fa-briefcase
-  
