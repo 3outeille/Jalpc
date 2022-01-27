@@ -1,7 +1,7 @@
 ---
 layout: post
 is_post: on
-post_url : "https://hackmd.io/@bouteille/SkD5Xd4DL"
+post_url : "https://hackmd.io/@machine-learning/SkD5Xd4DL"
 title:  "Inception-V2/V3: Summary and Implementation"
 date:   2020-04-11
 keywords: ""
