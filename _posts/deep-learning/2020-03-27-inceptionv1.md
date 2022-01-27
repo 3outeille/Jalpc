@@ -1,7 +1,7 @@
 ---
 layout: post
 is_post: on
-post_url : "https://hackmd.io/@bouteille/Bk-61Fo8U"
+post_url : "https://hackmd.io/@machine-learning/Bk-61Fo8U"
 title:  "Inception-V1 (GoogLeNet): Summary and Implementation"
 date:   2020-03-27
 keywords: ""
