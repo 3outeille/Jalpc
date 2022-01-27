@@ -1,7 +1,7 @@
 ---
 layout: post
 is_post: on
-post_url : "https://hackmd.io/@bouteille/HkH1jUArI"
+post_url : "https://hackmd.io/@machine-learning/HkH1jUArI"
 title:  "EfficientNet: Summary and Implementation"
 date:   2020-03-12
 keywords: ""
