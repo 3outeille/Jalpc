@@ -1,7 +1,7 @@
 ---
 layout: post
 is_post: on
-post_url : "https://hackmd.io/@bouteille/B1Cmns09I"
+post_url : "https://hackmd.io/@machine-learning/blog-post-cnnumpy-fast"
 title:  "Convolutional Neural Network with Numpy (Fast)"
 date:   2020-07-10
 keywords: ""
