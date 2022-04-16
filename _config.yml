@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fas fa-language
     - name: fas fa-tree
-  desc: French Computer Science & Engineering student at <a href="https://www.epita.fr/" target="_blank">EPITA</a>. Current interests are Compilers, Deep Learning model acceleration & compression. My <a href="https://drive.google.com/file/d/1Hq1QXj8N1KPcAnJs6AwYPltg8M0P4qI5/view?usp=sharing" target="_blank">resume</a>.
+  desc: French Computer Science & Engineering student at <a href="https://www.epita.fr/" target="_blank">EPITA</a>. Current interests are Deep Learning model acceleration & compression. My <a href="https://drive.google.com/file/d/1Hq1QXj8N1KPcAnJs6AwYPltg8M0P4qI5/view?usp=sharing" target="_blank">resume</a>.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
