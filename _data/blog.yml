@@ -9,6 +9,9 @@
 - name: Deep Learning
   href: /deep-learning/
 
+- name: Software Engineering
+  href: /software-engineering/
+
 # Don't display it but still accessible
 # - name: Data Structure
 #   href: /data-structure/
